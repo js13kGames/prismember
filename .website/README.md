@@ -1,4 +1,8 @@
 ---
+genres:
+  - narrative
+  - adventure
+  - puzzle
 directors_cut: https://github.com/xuyunjie1990/my-js13kgame-2
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
